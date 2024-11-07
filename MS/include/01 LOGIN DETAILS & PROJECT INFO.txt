@@ -1,0 +1,22 @@
+**Database Name: supermarketing**
+
+**Developed byteklu abebe,serkalem cheru and amin kedir**
+
+**Recommended PHP Version 5.6.3**
+
+
+**customer Login Details** 
+
+Username: teklu
+Password: customer
+
+
+**Admin Login Details**
+
+Username: amin
+Password: admin123
+
+**owner Login Details** 
+
+Username: serka
+Password: owner
